@@ -1,4 +1,4 @@
-const baseAddress = 'http://localhost:7071'; //'https://serverless-funcs-1.azurewebsites.net'; //'http://localhost:7071';
+const baseAddress = '';
 var app = new Vue({
     el: '#app',
     data: {
